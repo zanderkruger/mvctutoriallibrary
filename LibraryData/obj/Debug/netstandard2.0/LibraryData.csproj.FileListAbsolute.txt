@@ -1,0 +1,8 @@
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+C:\Projects\HQ\mvctutoriallibrary\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
