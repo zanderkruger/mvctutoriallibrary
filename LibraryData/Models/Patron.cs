@@ -8,6 +8,8 @@ namespace LibraryData.Models
         public int Id {get; set;}
         public string firstName {get; set;}
         public string lastName {get; set;}
-
+        public string address {get; set;}
+        public DateTime dateOfBirth {get; set;}
+        public string telephoneNumber {get; set;}
     }
 }
