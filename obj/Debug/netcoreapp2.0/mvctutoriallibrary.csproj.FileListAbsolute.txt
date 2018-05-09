@@ -1,0 +1,13 @@
+C:\Projects\HQ\mvctutoriallibrary\obj\Debug\netcoreapp2.0\mvctutoriallibrary.csproj.CoreCompileInputs.cache
+C:\Projects\HQ\mvctutoriallibrary\obj\Debug\netcoreapp2.0\mvctutoriallibrary.AssemblyInfoInputs.cache
+C:\Projects\HQ\mvctutoriallibrary\obj\Debug\netcoreapp2.0\mvctutoriallibrary.AssemblyInfo.cs
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\mvctutoriallibrary.deps.json
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\mvctutoriallibrary.runtimeconfig.json
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\mvctutoriallibrary.runtimeconfig.dev.json
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\mvctutoriallibrary.dll
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\mvctutoriallibrary.pdb
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Projects\HQ\mvctutoriallibrary\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Projects\HQ\mvctutoriallibrary\obj\Debug\netcoreapp2.0\mvctutoriallibrary.csproj.CopyComplete
+C:\Projects\HQ\mvctutoriallibrary\obj\Debug\netcoreapp2.0\mvctutoriallibrary.dll
+C:\Projects\HQ\mvctutoriallibrary\obj\Debug\netcoreapp2.0\mvctutoriallibrary.pdb
